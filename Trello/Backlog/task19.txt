@@ -1,4 +1,0 @@
-Card Serial: 19
-Title: Citizen Forgot Password
-Type: Citizen
-Description: Password recovery for citizen

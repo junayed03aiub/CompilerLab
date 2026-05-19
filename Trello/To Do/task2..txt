@@ -1,4 +1,0 @@
-Card Serial: 2
-Title: Login for Volunteer
-Type: Volunteer
-Description: Volunteer login system

@@ -1,4 +1,0 @@
-Card Serial: 11
-Title: Submit Aid Request
-Type: Help Receiver
-Description: Help receiver can submit aid request

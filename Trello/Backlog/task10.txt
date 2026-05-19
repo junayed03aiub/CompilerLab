@@ -1,4 +1,0 @@
-Card Serial: 10
-Title: Browse Crisis Events
-Type: Citizen
-Description: Citizen can browse available crisis events

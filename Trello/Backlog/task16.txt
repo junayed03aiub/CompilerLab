@@ -1,4 +1,0 @@
-Card Serial: 16
-Title: Track Request Status
-Type: Help Receiver
-Description: Help receiver can track aid request status

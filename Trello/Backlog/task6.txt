@@ -1,4 +1,0 @@
-Card Serial: 6
-Title: Manage Users
-Type: Admin
-Description: Admin can manage all users

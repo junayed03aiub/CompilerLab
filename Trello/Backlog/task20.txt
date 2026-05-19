@@ -1,4 +1,0 @@
-Card Serial: 20
-Title: Help Receiver Forgot Password
-Type: Help Receiver
-Description: Password recovery for help receiver

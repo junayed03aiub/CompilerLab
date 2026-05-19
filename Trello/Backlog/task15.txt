@@ -1,4 +1,0 @@
-Card Serial: 15
-Title: Update Distribution Status
-Type: Volunteer
-Description: Volunteer updates distribution status

@@ -1,4 +1,0 @@
-Card Serial: 3
-Title: Citizen Registration & Login
-Type: Citizen
-Description: Citizen registration and login system

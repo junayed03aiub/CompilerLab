@@ -1,4 +1,0 @@
-Card Serial: 17
-Title: View Donation History & Status
-Type: Citizen
-Description: User can view donation history and status

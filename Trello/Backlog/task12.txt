@@ -1,4 +1,0 @@
-Card Serial: 12
-Title: Verify Aid Request
-Type: Volunteer
-Description: Volunteer verifies aid requests

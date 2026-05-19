@@ -1,4 +1,0 @@
-Card Serial: 1
-Title: Login for Admin
-Type: Admin
-Description: Admin login system

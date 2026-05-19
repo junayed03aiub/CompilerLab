@@ -1,4 +1,0 @@
-Card Serial: 5
-Title: Admin Forgot Password
-Type: Admin
-Description: Password recovery for admin

@@ -1,4 +1,0 @@
-Card Serial: 14
-Title: Verify Donations
-Type: Volunteer
-Description: Volunteer verifies donations

@@ -1,4 +1,0 @@
-Card Serial: 7
-Title: Manage Volunteers
-Type: Admin
-Description: Admin can manage volunteer accounts

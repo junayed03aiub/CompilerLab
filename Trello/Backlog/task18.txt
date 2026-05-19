@@ -1,4 +1,0 @@
-Card Serial: 18
-Title: Update Aid Request
-Type: Help Receiver
-Description: Help receiver can update aid request

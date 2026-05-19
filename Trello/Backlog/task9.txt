@@ -1,4 +1,0 @@
-Card Serial: 9
-Title: Manage Crisis Events
-Type: Volunteer
-Description: Volunteer can manage crisis events
